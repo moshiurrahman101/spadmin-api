@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Website Design",
+    "category": "Work",
+    "priority": "High",
+    "description": "Need to complete asap in next.js",
+    "deadline": "20-12-2023",
+    "id": 1
+  },
+  {
+    "name": "Grocery Shopping",
+    "category": "Personal",
+    "priority": "Medium",
+    "description": "Buy essential groceries for the week",
+    "deadline": null,
+    "id": 2
+  },
+  {
+    "name": "Prepare Presentation",
+    "category": "Work",
+    "priority": "High",
+    "description": "Create a presentation for the upcoming meeting",
+    "deadline": "18-12-2023",
+    "id": 3
+  },
+  {
+    "name": "Budget Planning",
+    "category": "Finance",
+    "priority": "Medium",
+    "description": "Review and plan monthly budget",
+    "deadline": null,
+    "id": 4
+  },
+  {
+    "name": "Exercise",
+    "category": "Health",
+    "priority": "Medium",
+    "description": "Go for a 30-minute jog in the evening",
+    "deadline": null,
+    "id": 5
+  },
+  {
+    "name": "Read Book",
+    "category": "Personal",
+    "priority": "Low",
+    "description": "Read a chapter of the latest novel",
+    "deadline": null,
+    "id": 6
+  },
+  {
+    "name": "Client Meeting",
+    "category": "Work",
+    "priority": "High",
+    "description": "Discuss project details with the client",
+    "deadline": "22-12-2023",
+    "id": 7
+  },
+  {
+    "name": "Pay Bills",
+    "category": "Finance",
+    "priority": "Medium",
+    "description": "Pay utility bills before the due date",
+    "deadline": null,
+    "id": 8
+  },
+  {
+    "name": "Write Blog Post",
+    "category": "Work",
+    "priority": "Medium",
+    "description": "Create engaging content for the blog",
+    "deadline": "25-12-2023",
+    "id": 9
+  },
+  {
+    "name": "Meditation",
+    "category": "Personal",
+    "priority": "Low",
+    "description": "Practice mindfulness meditation",
+    "deadline": null,
+    "id": 10
+  },
+  {
+    "name": "Project Research",
+    "category": "Work",
+    "priority": "Medium",
+    "description": "Gather information for the upcoming project",
+    "deadline": "21-12-2023",
+    "id": 11
+  },
+  {
+    "name": "Investment Review",
+    "category": "Finance",
+    "priority": "High",
+    "description": "Review and adjust investment portfolio",
+    "deadline": null,
+    "id": 12
+  },
+  {
+    "name": "Family Time",
+    "category": "Personal",
+    "priority": "Low",
+    "description": "Spend quality time with family",
+    "deadline": null,
+    "id": 13
+  },
+  {
+    "name": "Code Review",
+    "category": "Work",
+    "priority": "High",
+    "description": "Conduct a code review for the team",
+    "deadline": "23-12-2023",
+    "id": 14
+  },
+  {
+    "name": "Tax Filing",
+    "category": "Finance",
+    "priority": "Medium",
+    "description": "File annual income tax return",
+    "deadline": null,
+    "id": 15
+  },
+  {
+    "name": "Weekend Hike",
+    "category": "Personal",
+    "priority": "Low",
+    "description": "Explore a new trail during the weekend hike",
+    "deadline": null,
+    "id": 16
+  },
+  {
+    "name": "Product Demo",
+    "category": "Work",
+    "priority": "High",
+    "description": "Prepare and deliver a product demo to the client",
+    "deadline": "19-12-2023",
+    "id": 17
+  },
+  {
+    "name": "Savings Plan",
+    "category": "Finance",
+    "priority": "Medium",
+    "description": "Create a monthly savings plan",
+    "deadline": null,
+    "id": 18
+  },
+  {
+    "name": "Art Class",
+    "category": "Personal",
+    "priority": "Low",
+    "description": "Attend an art class to explore creativity",
+    "deadline": null,
+    "id": 19
+  },
+  {
+    "name": "Project Launch",
+    "category": "Work",
+    "priority": "High",
+    "description": "Coordinate the launch of a new project",
+    "deadline": "24-12-2023",
+    "id": 20
+  }
+]
