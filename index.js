@@ -36,6 +36,19 @@ app.get('/tasks', async (req, res) => {
     res.json(tasks);
   });
 
+  // Get a specific task by ID
+  app.get('/tasks/:id', async (req, res) => {
+    const tasks = await readDataFromFile();
+    const taskId = parseInt(req.params.id);
+    const task = tasks.find((t) => t.id === taskId);
+
+    if (task) {
+      res.json(task);
+    } else {
+      res.status(404).json({ message: 'Task not found' });
+    }
+  });
+
   // add new
   app.post('/tasks', async (req, res) => {
     const newTask = req.body;
