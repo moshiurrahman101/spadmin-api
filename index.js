@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors');
 const bodyParser = require('body-parser');
 const fs = require('fs').promises;
 
@@ -6,6 +7,7 @@ const app = express();
 const PORT = 5000;
 
 // Middleware to parse JSON requests
+app.use(cors());
 app.use(bodyParser.json());
 const dataFilePath = 'tasks.json';
 
